@@ -9,7 +9,6 @@ Como editor de código usaremos [Pycharm](https://www.jetbrains.com/pycharm/)
 1. [Python basico]( https://nbviewer.jupyter.org/url/cayetanoguerra.github.io/spegc/PythonNumpy/01-Python-Basics.ipynb)
 2. [Coleçoes](https://nbviewer.jupyter.org/url/cayetanoguerra.github.io/spegc/PythonNumpy/02-Collections.ipynb)
 
-2.1 [tipos coleçoes] (https://nbviewer.jupyter.org/url/cayetanoguerra.github.io/spegc/PythonNumpy/02-Collections.ipynb)
 
 3. [Python Avançado](https://nbviewer.jupyter.org/url/cayetanoguerra.github.io/spegc/PythonNumpy/03-Not-so-Basic-Python.ipynb)
 
